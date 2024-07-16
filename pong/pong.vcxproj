@@ -19,18 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tahm\draw.cpp" />
+    <ClCompile Include="tahm\tahm.cpp" />
     <ClCompile Include="tahm\input.cpp" />
-    <ClCompile Include="tahm.cpp" />
+    <ClCompile Include="engine.cpp" />
+    <ClCompile Include="tahm\renderer.cpp" />
     <ClCompile Include="tahm\window.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="tahm\draw.h" />
-    <ClInclude Include="tahm\input.h" />
-    <ClInclude Include="main.h" />
-    <ClInclude Include="tahm\objs.h" />
+    <ClInclude Include="tahm\keys.h" />
     <ClInclude Include="tahm\seek.h" />
-    <ClInclude Include="tahm\window.h" />
+    <ClInclude Include="tahm\tahm.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
