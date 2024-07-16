@@ -1,13 +1,3 @@
 ﻿  tahm.cpp
 D:\files\projects\git\pong\pong\tahm\tahm.h(36,8): warning C4200: nonstandard extension used: zero-sized array in struct/union
-  input.cpp
-D:\files\projects\git\pong\pong\tahm\tahm.h(36,8): warning C4200: nonstandard extension used: zero-sized array in struct/union
-D:\files\projects\git\pong\pong\tahm\input.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
-  engine.cpp
-D:\files\projects\git\pong\pong\tahm\tahm.h(36,8): warning C4200: nonstandard extension used: zero-sized array in struct/union
-D:\files\projects\git\pong\pong\engine.cpp(15,9): error C2065: 'cleanup': undeclared identifier
-  renderer.cpp
-D:\files\projects\git\pong\pong\tahm\tahm.h(36,8): warning C4200: nonstandard extension used: zero-sized array in struct/union
-  window.cpp
-D:\files\projects\git\pong\pong\tahm\tahm.h(36,8): warning C4200: nonstandard extension used: zero-sized array in struct/union
-  Generating Code...
+  pong.vcxproj -> D:\files\projects\git\pong\Debug\pong.exe

@@ -19,12 +19,3 @@ int main(int argc, char* argv[])
 	return 0;
 	
 }
-
-void cleanup(void)
-{
-	SDL_DestroyRenderer(tahm.renderer->SDLrenderer);
-
-	SDL_DestroyWindow(tahm.window->SDLwindow);
-
-	SDL_Quit();
-}

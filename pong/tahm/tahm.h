@@ -71,4 +71,7 @@ public:
 	void init(void);
 	void loop();
 
+	~Tahm();
 };
+
+void cleanup(void);
