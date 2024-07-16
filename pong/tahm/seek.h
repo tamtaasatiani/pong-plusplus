@@ -5,8 +5,5 @@
 #include <iostream>
 
 
-#include "objs.h"
-#include "window.h"
-#include "draw.h"
-#include "input.h"
-#include "../main.h"
+#include "tahm.h"
+#include "keys.h"

@@ -21,30 +21,24 @@
     <ClCompile Include="tahm\input.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="tahm\draw.cpp">
+    <ClCompile Include="engine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="tahm.cpp">
+    <ClCompile Include="tahm\renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tahm\tahm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="tahm\objs.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="tahm\window.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="tahm\input.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="tahm\draw.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="tahm\seek.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="main.h">
+    <ClInclude Include="tahm\tahm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tahm\keys.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

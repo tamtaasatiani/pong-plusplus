@@ -1,46 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\files\\projects\\cpp\\windows\\pong\\",
+  "WorkspaceRootPath": "D:\\files\\projects\\git\\pong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\git\\pong\\pong\\engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\cpp\\windows\\pong\\pong\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\seek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\git\\pong\\pong\\tahm\\seek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\seek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\git\\pong\\pong\\tahm\\tahm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\tahm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\git\\pong\\pong\\tahm\\tahm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\tahm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\draw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\draw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\git\\pong\\pong\\tahm\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\objs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\objs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\git\\pong\\pong\\tahm\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|D:\\files\\projects\\git\\pong\\pong\\tahm\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7DB671F-A299-4E8C-AD9F-A92BC1F06853}|pong\\pong.vcxproj|solutionrelative:pong\\tahm\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,131 +38,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "seek.h",
+              "DocumentMoniker": "D:\\files\\projects\\git\\pong\\pong\\tahm\\seek.h",
+              "RelativeDocumentMoniker": "pong\\tahm\\seek.h",
+              "ToolTip": "D:\\files\\projects\\git\\pong\\pong\\tahm\\seek.h",
+              "RelativeToolTip": "pong\\tahm\\seek.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-12T17:04:39.14Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "tahm.cpp",
-              "DocumentMoniker": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm.cpp",
-              "RelativeDocumentMoniker": "pong\\tahm.cpp",
-              "ToolTip": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm.cpp",
-              "RelativeToolTip": "pong\\tahm.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "DocumentMoniker": "D:\\files\\projects\\git\\pong\\pong\\tahm\\tahm.cpp",
+              "RelativeDocumentMoniker": "pong\\tahm\\tahm.cpp",
+              "ToolTip": "D:\\files\\projects\\git\\pong\\pong\\tahm\\tahm.cpp",
+              "RelativeToolTip": "pong\\tahm\\tahm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-16T06:14:50.113Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tahm.h",
+              "DocumentMoniker": "D:\\files\\projects\\git\\pong\\pong\\tahm\\tahm.h",
+              "RelativeDocumentMoniker": "pong\\tahm\\tahm.h",
+              "ToolTip": "D:\\files\\projects\\git\\pong\\pong\\tahm\\tahm.h",
+              "RelativeToolTip": "pong\\tahm\\tahm.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-15T13:43:05.229Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "renderer.cpp",
+              "DocumentMoniker": "D:\\files\\projects\\git\\pong\\pong\\tahm\\renderer.cpp",
+              "RelativeDocumentMoniker": "pong\\tahm\\renderer.cpp",
+              "ToolTip": "D:\\files\\projects\\git\\pong\\pong\\tahm\\renderer.cpp",
+              "RelativeToolTip": "pong\\tahm\\renderer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-16T06:48:36.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "engine.cpp",
+              "DocumentMoniker": "D:\\files\\projects\\git\\pong\\pong\\engine.cpp",
+              "RelativeDocumentMoniker": "pong\\engine.cpp",
+              "ToolTip": "D:\\files\\projects\\git\\pong\\pong\\engine.cpp",
+              "RelativeToolTip": "pong\\engine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-12T12:46:51.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "main.h",
-              "DocumentMoniker": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\main.h",
-              "RelativeDocumentMoniker": "pong\\main.h",
-              "ToolTip": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\main.h",
-              "RelativeToolTip": "pong\\main.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-13T13:50:19.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "window.cpp",
-              "DocumentMoniker": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\window.cpp",
-              "RelativeDocumentMoniker": "pong\\tahm\\window.cpp",
-              "ToolTip": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\window.cpp",
-              "RelativeToolTip": "pong\\tahm\\window.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-13T06:19:24.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "window.h",
-              "DocumentMoniker": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\window.h",
-              "RelativeDocumentMoniker": "pong\\tahm\\window.h",
-              "ToolTip": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\window.h",
-              "RelativeToolTip": "pong\\tahm\\window.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-12T14:40:05.708Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "seek.h",
-              "DocumentMoniker": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\seek.h",
-              "RelativeDocumentMoniker": "pong\\tahm\\seek.h",
-              "ToolTip": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\seek.h",
-              "RelativeToolTip": "pong\\tahm\\seek.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-12T17:04:39.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "objs.h",
-              "DocumentMoniker": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\objs.h",
-              "RelativeDocumentMoniker": "pong\\tahm\\objs.h",
-              "ToolTip": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\objs.h",
-              "RelativeToolTip": "pong\\tahm\\objs.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-12T14:39:52.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "draw.h",
-              "DocumentMoniker": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\draw.h",
-              "RelativeDocumentMoniker": "pong\\tahm\\draw.h",
-              "ToolTip": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\draw.h",
-              "RelativeToolTip": "pong\\tahm\\draw.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-12T12:46:46.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "draw.cpp",
-              "DocumentMoniker": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\draw.cpp",
-              "RelativeDocumentMoniker": "pong\\tahm\\draw.cpp",
-              "ToolTip": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\draw.cpp",
-              "RelativeToolTip": "pong\\tahm\\draw.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Title": "window.cpp",
+              "DocumentMoniker": "D:\\files\\projects\\git\\pong\\pong\\tahm\\window.cpp",
+              "RelativeDocumentMoniker": "pong\\tahm\\window.cpp",
+              "ToolTip": "D:\\files\\projects\\git\\pong\\pong\\tahm\\window.cpp",
+              "RelativeToolTip": "pong\\tahm\\window.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-12T10:35:36.088Z"
+              "WhenOpened": "2024-07-16T06:16:07.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "input.cpp",
-              "DocumentMoniker": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\input.cpp",
+              "DocumentMoniker": "D:\\files\\projects\\git\\pong\\pong\\tahm\\input.cpp",
               "RelativeDocumentMoniker": "pong\\tahm\\input.cpp",
-              "ToolTip": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\input.cpp",
+              "ToolTip": "D:\\files\\projects\\git\\pong\\pong\\tahm\\input.cpp",
               "RelativeToolTip": "pong\\tahm\\input.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-12T10:36:45.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "input.h",
-              "DocumentMoniker": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\input.h",
-              "RelativeDocumentMoniker": "pong\\tahm\\input.h",
-              "ToolTip": "D:\\files\\projects\\cpp\\windows\\pong\\pong\\tahm\\input.h",
-              "RelativeToolTip": "pong\\tahm\\input.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-12T10:36:36.7Z",
               "EditorCaption": ""
             }
           ]

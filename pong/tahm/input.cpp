@@ -1,34 +1,19 @@
 #include "seek.h"
 
-#include "input.h"
+void Tahm::Input::press(int key)
+{
+	keysPressed[key] = true;
+}
 
-
-/*
-
-void pressKey(int key)
+void Tahm::Input::clear()
 {
 	for (int i = 0; i < KEY_AMOUNT; i++)
 	{
-		if (keysPressed[i].key != key)
-		{
-			continue;
-		}
-
-		keysPressed[i].pressed = true;
-	}
-
-}
-
-void clearKeys()
-{
-	for (int i = 0; i < KEY_AMOUNT; i++)
-	{
-		keysPressed[i].pressed = false;
+		keysPressed[i] = false;
 	}
 }
-*/
 
-void readInput(void)
+void Tahm::Input::read(void)
 {
 	SDL_Event event;
 
@@ -36,13 +21,13 @@ void readInput(void)
 	{
 		switch (event.type)
 		{
-			case SDL_QUIT:
-				exit(0);
-				break;
+		case SDL_QUIT:
+			exit(0);
+			break;
 
-			default:
-				//pressKey(event.type);
-				break;
+		default:
+			press(event.type);
+			break;
 		}
 	}
 }
