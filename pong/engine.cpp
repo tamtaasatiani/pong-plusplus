@@ -12,10 +12,13 @@ int main(int argc, char* argv[])
 
 
 	tahm.init();
-	atexit(cleanup);
 
-	while (1) tahm.loop();
+	while (tahm.running) tahm.loop();
+
+	tahm.destroy();
 
 	return 0;
 	
 }
+
+

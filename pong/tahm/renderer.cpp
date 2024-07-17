@@ -28,5 +28,11 @@ void Tahm::Renderer::prepare(void)
 
 void Tahm::Renderer::present(void)
 {
+    if (SDLrenderer == nullptr)
+    {
+        std::cout << ("SDL renderer not present\n", SDL_GetError());
+        return;
+    }
+
     SDL_RenderPresent(SDLrenderer);
 }

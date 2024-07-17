@@ -1,5 +1,8 @@
 #include "seek.h"
 
+/*
+extern Tahm tahm;
+
 void Tahm::Input::press(int key)
 {
 	keysPressed[key] = true;
@@ -22,7 +25,7 @@ void Tahm::Input::read(void)
 		switch (event.type)
 		{
 		case SDL_QUIT:
-			exit(0);
+			tahm.running = false;
 			break;
 
 		default:
@@ -31,3 +34,5 @@ void Tahm::Input::read(void)
 		}
 	}
 }
+
+*/

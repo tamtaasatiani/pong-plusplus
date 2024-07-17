@@ -67,11 +67,14 @@ public:
 	Input* input;
 	Renderer* renderer;
 
+	bool running;
+
 public:
+	~Tahm();
+
+
 	void init(void);
 	void loop();
 
-	~Tahm();
+	void destroy();
 };
-
-void cleanup(void);

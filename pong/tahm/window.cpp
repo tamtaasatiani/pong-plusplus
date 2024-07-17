@@ -5,6 +5,7 @@ void Tahm::Window::create(const char* title, int width, int height)
     this->title = title;
     this->width = width;
     this->height = height;
+
 }
 
 void Tahm::Window::init(void)
@@ -15,7 +16,11 @@ void Tahm::Window::init(void)
         exit(1);
     }
 
-    SDLwindow = SDL_CreateWindow(title, SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, width, height, flags);
+    SDLwindow = SDL_CreateWindow(
+        title, 
+        SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, //x and y
+        width, height, 
+        flags);
 
     if (!SDLwindow)
     {

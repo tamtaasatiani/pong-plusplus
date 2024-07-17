@@ -1,3 +1,4 @@
 ﻿  tahm.cpp
 D:\files\projects\git\pong\pong\tahm\tahm.h(36,8): warning C4200: nonstandard extension used: zero-sized array in struct/union
-  pong.vcxproj -> D:\files\projects\git\pong\Debug\pong.exe
+tahm.obj : error LNK2019: unresolved external symbol "public: void __thiscall Tahm::Input::clear(void)" (?clear@Input@Tahm@@QAEXXZ) referenced in function "public: void __thiscall Tahm::loop(void)" (?loop@Tahm@@QAEXXZ)
+D:\files\projects\git\pong\Debug\pong.exe : fatal error LNK1120: 1 unresolved externals
