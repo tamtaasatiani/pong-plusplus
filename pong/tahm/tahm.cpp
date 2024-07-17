@@ -28,8 +28,10 @@ void Tahm::loop()
 	
 	//input->clear();
 
-	//if (draw) draw();
+
 	renderer->prepare();
+
+	//if (draw) draw();
 
 	renderer->present();
 

@@ -47,8 +47,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-12T12:46:51.357Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "pong\\tahm\\tahm.cpp",
               "ToolTip": "D:\\files\\projects\\git\\pong\\pong\\tahm\\tahm.cpp",
               "RelativeToolTip": "pong\\tahm\\tahm.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAEAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-16T06:14:50.113Z",
               "IsPinned": true,
@@ -74,8 +73,7 @@
               "RelativeToolTip": "pong\\tahm\\input.cpp",
               "ViewState": "AQIAAAcAAAAAAAAAAAAIwBYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-17T09:15:07.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T09:15:07.64Z"
             },
             {
               "$type": "Document",
@@ -87,8 +85,7 @@
               "RelativeToolTip": "pong\\tahm\\window.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-16T06:16:07.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T06:16:07.806Z"
             },
             {
               "$type": "Document",
@@ -100,8 +97,7 @@
               "RelativeToolTip": "pong\\tahm\\renderer.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-17T05:43:51.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T05:43:51.656Z"
             },
             {
               "$type": "Document",
@@ -113,8 +109,7 @@
               "RelativeToolTip": "pong\\tahm\\tahm.h",
               "ViewState": "AQIAABEAAAAAAAAAAAAnwCgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-16T13:50:18.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T13:50:18.353Z"
             }
           ]
         }
